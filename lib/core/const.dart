@@ -1,0 +1,3 @@
+const String apiKey = '15f96d5257b5a3ce979a6a9623b0495e';
+const String readAccessToken =
+    'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxNWY5NmQ1MjU3YjVhM2NlOTc5YTZhOTYyM2IwNDk1ZSIsInN1YiI6IjYyYjc0MGJhOTU2NjU4MDA4Y2RjYzE5NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Mjj3ogZ0mVYAW0ENmk3TmQj6BYocV-bnoJ9v2Kf83Q4';

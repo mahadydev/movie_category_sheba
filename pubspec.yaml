@@ -1,0 +1,39 @@
+name: movie_category_sheba
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #FOR MODEL
+  json_annotation: 4.9.0
+  freezed_annotation: 2.4.1
+
+  cupertino_icons: 1.0.8
+  dio: 5.4.3+1
+  get: 4.6.6
+  flutter_screenutil: 5.9.1
+  get_storage: 2.1.1
+  cached_network_image: 3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  #FOR MODEL
+  freezed: 2.5.2
+  build_runner: 2.4.10
+  json_serializable: 6.8.0
+  flutter_lints: 4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
